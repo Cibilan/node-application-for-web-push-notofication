@@ -1,0 +1,26 @@
+Steps
+
+Get token from browser:
+
+flyUql1RBrg:APA91bHyUXxm3JhwmNoQOKvKE3jbfPZBcaEc1_B9uRpJ8sNJ5SDQ73-amXOWgBswOAqCOWKrifZXpCdV7j0udw2hZGKKbzuHYIotEWmTkCk7CNVFeqrtW-nKQEe3g8edZHpRk__UvzkV
+
+API key
+
+AAA4Fk4Aag:APA91bFApC-TuBBf6Kbb9w_PNpVh_wOePKOZWPQDx5n9ien4qYqfIWqiW_cwafElxIPKIXss1vWz08Jjw8OXrLFsqAwxtdeDYqzLY4P2zP0nEFz8xQ47Om9XwNV2NSbuLseEr8FI4MPz
+
+Send from SNS - Dirct test
+
+{
+  "default" : "test from sns"
+}
+
+Send from Lambda
+ Create event 
+ {
+  "message": "value10"
+}
+
+Creaeting API
+
+
+git clone https://github.com/ashishlata/node-application-for-web-push-notofication 
